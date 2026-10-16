@@ -1,6 +1,6 @@
 
 # ApplyTrack
-#### Video Demo: [ADD YOUR VIDEO LINK HERE]
+#### Video Demo: https://youtu.be/60x-MSfwa74
 #### Description:
 
 ApplyTrack is a command-line job application tracker built with Python. It helps job seekers organize their applications, monitor recruitment progress, and keep track of important application details in one place.
